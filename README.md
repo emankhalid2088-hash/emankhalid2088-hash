@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Eman Khalid 👋
 
-<!--
-**emankhalid2088-hash/emankhalid2088-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BS IT Student | Aspiring Web Developer & Designer
 
-Here are some ideas to get you started:
+I'm currently pursuing a Bachelor's in Information Technology (7th Semester) and passionate about building clean, responsive, and user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently learning: Web Development, JavaScript, UI Design
+- 🌱 Building modern websites using HTML, CSS, JavaScript & AI tools
+- 💡 Looking for opportunities to work on real-world projects
+- 📫 Reach me: [Your Email] or through my portfolio
+
+### Connect with me:
+- Portfolio: (yahan portfolio ka live link aayega baad mein)
+- LinkedIn: (baad mein add karenge)
