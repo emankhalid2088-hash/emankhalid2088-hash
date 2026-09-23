@@ -10,5 +10,5 @@ I'm currently pursuing a Bachelor's in Information Technology (7th Semester) and
 - 📫 Reach me: [Your Email] or through my portfolio
 
 ### Connect with me:
-- Portfolio: (yahan portfolio ka live link aayega baad mein)
-- LinkedIn: (baad mein add karenge)
+- Portfolio: 
+- LinkedIn: 
